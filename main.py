@@ -23,7 +23,7 @@ headers = {
 }
 
 min_attention = 100000
-min_comment = 200
+min_comment = 100
 
 # 定义要爬取的网址
 url = "https://www.guancha.cn/internation?s=dhguoji"
